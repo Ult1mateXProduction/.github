@@ -7,3 +7,7 @@
 <b>(Ω) Omega:</b> Docker BeamNG.Drive Server Node<br>
 <b>(ε) Epsilon:</b> Project Android Application<br>
 <b>(Ψ) Psi:</b> Plugin For Minecraft Server<br>
+<hr>
+<h3>The Team</h3>
+<b>CEO:</b> <a href="https://github.com/Ult1mateXPHP">@Ult1mateXPHP</a><br>
+<b>Frontend Developer:</b> <a href="https://github.com/karlgod123">@programmelius</a>
