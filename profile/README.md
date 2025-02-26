@@ -11,4 +11,5 @@
 <h3>The Team</h3>
 <b>CEO:</b> <a href="https://github.com/Ult1mateXPHP">@Ult1mateXPHP</a><br>
 <b>Frontend Developer:</b> <a href="https://github.com/karlgod123">@programmelius</a><br>
+<b>Java Developer:</b> <a href="https://github.com/Qudocanohu">@Qudocanohu</a><br>
 <b>Java Developer:</b> <a href="https://github.com/Atis51">@Atis51</a>
